@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+ Pet Pooja- Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = Pet Pooja - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -443,4 +443,5 @@ Contact Us
 Restaurant St, Delicious City, London 9578, UK
 
 +88-123-123456
+
 reservation@restro.com
